@@ -1,4 +1,4 @@
-# syaahhospitalsystem
+# HealthCare Application
 
 A new Flutter project.
 
