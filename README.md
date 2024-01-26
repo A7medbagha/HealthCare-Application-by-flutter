@@ -4,7 +4,7 @@
 ## Key Features
 #### - Sign In/Sign Up: Easily create an account or log in securely.
 #### - Survey: Answer essential health questions to assist your doctor.
-#### - Home: Your main hub for everything: survey results, health tips, appointments, and notifications.
+#### - Home: Your main hub for everything (survey results, health tips, appointments, and notifications).
 #### - Results: View AI-generated health insights for a deeper understanding of your condition.
 #### - Health Blog: Stay informed with updates on various health topics.
 #### - Appointments: Schedule, edit, or cancel appointments hassle-free.
@@ -12,7 +12,7 @@
 #### - Contact Us: Reach out easily via email or phone for any queries.
 #### - Feedback: Share your thoughts to help us improve our service.
 #### - Location Services: Find hospital locations with ease.
-#### - Profile: Manage your personal data and preferences effortlessly.
+#### - Profile: See your personal data.
 
 ## Technologies
 #### - Flutter: For a smooth cross-platform experience.
