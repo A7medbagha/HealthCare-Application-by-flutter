@@ -17,12 +17,12 @@
 ## Technologies
 #### - Flutter: For a smooth cross-platform experience.
 #### - Firebase: Handling authentication, database, and messaging.
-#### - AI Models: Providing accurate health insights.
+#### - AI Models: Utilized for predictive health analytics, determining the likelihood of a user having a disease or not.
 #### - Firestore: Storing and managing survey responses and user data securely.
 #### - Firebase Authentication: Ensuring secure user authentication and authorization.
 #### - FireToast: Displaying attractive and user-friendly toast messages for enhanced user experience.
 
-## License:
+## License
 #### - MIT License for modification and distribution.
 
 ## Note
