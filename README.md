@@ -21,3 +21,9 @@
 #### - Firestore: Storing and managing survey responses and user data securely.
 #### - Firebase Authentication: Ensuring secure user authentication and authorization.
 #### - FireToast: Displaying attractive and user-friendly toast messages for enhanced user experience.
+
+## License:
+#### - MIT License for modification and distribution.
+
+## Note
+#### - The application is currently under development, and I'm striving to make it the best it can be. Thank you.
