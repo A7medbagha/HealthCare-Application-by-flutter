@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101537051407",
+    "project_id": "syaah-hospital",
+    "storage_bucket": "syaah-hospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101537051407:android:3f51e2c1eee30d023e447a",
+        "android_client_info": {
+          "package_name": "com.example.syaahhospitalsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPZSpa0uZl2ASKg2VGbYpbZiNVdc6c5rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
